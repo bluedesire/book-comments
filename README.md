@@ -1,2 +1,17 @@
 # 个人读书笔记
 大部分内容都是读书过程中的抄录，方便自己记忆。
+
+# 技术书籍
+[Hands-On Machine Learning with Scikit-Learning & TensorFlow](https://github.com/bluedesire/book-comments/wiki/Hands-On-Machine-Learning-with-Scikit-Learn-&-TensorFlow)
+
+# 非技术类书籍
+[随机致富的傻瓜](https://github.com/bluedesire/book-comments/wiki/%E9%9A%8F%E6%9C%BA%E8%87%B4%E5%AF%8C%E7%9A%84%E5%82%BB%E7%93%9C)
+黑天鹅：如何应对不可预知的未来
+
+
+# wishlist
+- Asking the Right Questions
+- 1984
+- 用图表说话
+- 思考，快与慢
+- 软技能

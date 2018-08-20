@@ -12,7 +12,12 @@
 
 # wishlist
 - Asking the Right Questions
-- 1984
-- 用图表说话
 - 思考，快与慢
+- 1984
+- 枪炮、病菌与钢铁
+- 用图表说话
 - 软技能
+- Spring boot实战
+- 精通 Spring 4.x企业应用开发实战
+- pro git
+- excel 2016宝典

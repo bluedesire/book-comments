@@ -17,7 +17,11 @@
 - 枪炮、病菌与钢铁
 - 用图表说话
 - 软技能
+
 - Spring boot实战
 - 精通 Spring 4.x企业应用开发实战
+- Java并发编程实践
+- Java性能权威指南
+- The garbage collection handbook
 - pro git
 - excel 2016宝典

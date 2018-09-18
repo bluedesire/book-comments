@@ -2,6 +2,8 @@
 大部分内容都是读书过程中的抄录，方便自己记忆。
 
 # 技术书籍
+[流畅的Python](https://github.com/bluedesire/book-comments/wiki/%E6%B5%81%E7%95%85%E7%9A%84Python)
+
 [Hands-On Machine Learning with Scikit-Learning & TensorFlow](https://github.com/bluedesire/book-comments/wiki/Hands-On-Machine-Learning-with-Scikit-Learn-&-TensorFlow)
 
 # 非技术类书籍

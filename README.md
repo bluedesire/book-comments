@@ -14,6 +14,8 @@
 
 [Kafka: The Definitive Guide](https://github.com/bluedesire/book-comments/wiki/Kafka:-The-Definitive-Guide)
 
+[利用Python进行数据分析](https://github.com/bluedesire/book-comments/wiki/%E5%88%A9%E7%94%A8Python%E8%BF%9B%E8%A1%8C%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90)
+
 # 非技术类书籍
 [随机致富的傻瓜](https://github.com/bluedesire/book-comments/wiki/%E9%9A%8F%E6%9C%BA%E8%87%B4%E5%AF%8C%E7%9A%84%E5%82%BB%E7%93%9C)
 

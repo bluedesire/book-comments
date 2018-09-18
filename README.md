@@ -4,6 +4,8 @@
 # 技术书籍
 [流畅的Python](https://github.com/bluedesire/book-comments/wiki/%E6%B5%81%E7%95%85%E7%9A%84Python)
 
+[High Performance Python](https://github.com/bluedesire/book-comments/wiki/High-Performance-Python)
+
 [Hands-On Machine Learning with Scikit-Learning & TensorFlow](https://github.com/bluedesire/book-comments/wiki/Hands-On-Machine-Learning-with-Scikit-Learn-&-TensorFlow)
 
 # 非技术类书籍

@@ -2,6 +2,8 @@
 大部分内容都是读书过程中的抄录，方便自己记忆。
 
 # 技术书籍
+[Design Data-Intensive Applications](https://github.com/bluedesire/book-comments/wiki/Designing-Data-Intensive-Applications)
+
 [流畅的Python](https://github.com/bluedesire/book-comments/wiki/%E6%B5%81%E7%95%85%E7%9A%84Python)
 
 [Introduction to Apache Flink](https://github.com/bluedesire/book-comments/wiki/Introduction-to-Apache-Flink)
@@ -9,6 +11,8 @@
 [High Performance Python](https://github.com/bluedesire/book-comments/wiki/High-Performance-Python)
 
 [Hands-On Machine Learning with Scikit-Learning & TensorFlow](https://github.com/bluedesire/book-comments/wiki/Hands-On-Machine-Learning-with-Scikit-Learn-&-TensorFlow)
+
+[Kafka: The Definitive Guide](https://github.com/bluedesire/book-comments/wiki/Kafka:-The-Definitive-Guide)
 
 # 非技术类书籍
 [随机致富的傻瓜](https://github.com/bluedesire/book-comments/wiki/%E9%9A%8F%E6%9C%BA%E8%87%B4%E5%AF%8C%E7%9A%84%E5%82%BB%E7%93%9C)
